@@ -22,8 +22,6 @@ In general worked with microservice arthitecture.
 </p>
 
 
-
-
 ## 🛠 Technical Stack
 *   Golang/Python/JS/Dart languages
 *   MySQL, PostgreSQL, MongoDB, Redis
@@ -40,3 +38,8 @@ In general worked with microservice arthitecture.
        <img width="175px" src="https://komarev.com/ghpvc/?username=imirjar&color=DE002D">
    </a>
 </div>
+
+## 👷 Experience
+*   Team lead in support developer group - A support developer provides technical assistance for software users, addressing issues, fixing bugs, and implementing enhancements. 
+*   Business Process Automation Engineer - Outsourced development of warehouse accounting programs at Philip Morris International
+*   Freelance - Worked on my own project redbeaver.ru
