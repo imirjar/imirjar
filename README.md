@@ -30,8 +30,8 @@ In general worked with microservice arthitecture.
 
 ## 👷 Experience
 *   Team lead in support developer group - A support developer provides technical assistance for software users, addressing issues, fixing bugs, and implementing enhancements. 
-*   Business Process Automation Engineer - Outsourced development of warehouse accounting programs at Philip Morris International
-*   Freelance - Worked on my own project redbeaver.ru
+*   Business Process Automation Engineer - Outsourced development of warehouse accounting programs at [PMI](https://www.pmi.com/)
+*   Freelance - Worked on my own project [reDBeaver](https://www.redbeaver.ru/)
 
 ### My opensource projects
 
