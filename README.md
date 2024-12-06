@@ -32,11 +32,11 @@ In general worked with microservice arthitecture.
 
 ### My opensource projects
 
-*   [rb-michman](https://github.com/imirjar/rb-michman) - Published on Maven Central Java Library that compares 2 images with the same sizes and shows the differences visually by drawing rectangles. Some parts of the image can be excluded from the comparison.
-*   [rb-diver](https://github.com/imirjar/rb-diver) ) - JavaRush Telegram bot from the community to the community
+*   [rb-michman](https://github.com/imirjar/rb-michman) - rb-divers orchestrator. Turns all your databases into one convenient API service
+*   [rb-diver](https://github.com/imirjar/rb-diver)  - The program stores sql queries that can be called remotely using rb-michman
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/imirjar/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=romankh3&color=DE002D">
+       <img width="175px" src="https://komarev.com/ghpvc/?username=imirjar&color=DE002D">
    </a>
 </div>
