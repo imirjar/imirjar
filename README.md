@@ -11,7 +11,7 @@ In general worked with microservice arthitecture.
 </p>
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/imirjar/">
+   <a href="www.linkedin.com/in/artem-zadorov-64a72b251">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
    <a href="https://t.me/imirjar">
@@ -28,6 +28,11 @@ In general worked with microservice arthitecture.
 *   Linux, Docker, Jenkins
 *   GitHub/GitLab/Gitea/Bitbucket
 
+## 👷 Experience
+*   Team lead in support developer group - A support developer provides technical assistance for software users, addressing issues, fixing bugs, and implementing enhancements. 
+*   Business Process Automation Engineer - Outsourced development of warehouse accounting programs at Philip Morris International
+*   Freelance - Worked on my own project redbeaver.ru
+
 ### My opensource projects
 
 *   [rb-michman](https://github.com/imirjar/rb-michman) - rb-divers orchestrator. Turns all your databases into one convenient API service
@@ -39,7 +44,3 @@ In general worked with microservice arthitecture.
    </a>
 </div>
 
-## 👷 Experience
-*   Team lead in support developer group - A support developer provides technical assistance for software users, addressing issues, fixing bugs, and implementing enhancements. 
-*   Business Process Automation Engineer - Outsourced development of warehouse accounting programs at Philip Morris International
-*   Freelance - Worked on my own project redbeaver.ru
