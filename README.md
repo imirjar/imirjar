@@ -18,7 +18,7 @@ In general worked with microservice arthitecture.
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 <p align='center'>
-   📫 How to reach me: <a href='mailto:azadorov1234@gmail.com'>azadorov1234@gmail.com</a>
+   📫 How to reach me: <a href='mailto:contact@redbeaver.ru'>contact@redbeaver.ru</a>
 </p>
 
 
