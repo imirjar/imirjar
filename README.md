@@ -1,6 +1,6 @@
 # Hi, I'm Artem 👋
 
-Middle [GOLANG](https://go.dev/) Developer with more than 5 years of commertial experience. I have excellent knowledge in backend development on Golang.
+I'am [GOLANG](https://go.dev/) Developer with more than 5 years of commertial experience. I have excellent knowledge in backend development on Golang.
 In general worked with microservice arthitecture. 
 
 <p align='center'>
