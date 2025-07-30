@@ -12,7 +12,7 @@ In general worked with microservice arthitecture.
 </p>
 
 <p align='center'>
-   <a href="www.linkedin.com/in/artem-zadorov-64a72b251">
+   <a href="https://www.linkedin.com/in/imirjar">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
    <a href="https://t.me/imirjar">
