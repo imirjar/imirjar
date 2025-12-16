@@ -34,14 +34,4 @@ In general worked with microservice arthitecture.
 *   Business Process Automation Engineer - Outsourced development of warehouse accounting programs at [PMI](https://www.pmi.com/)
 *   Freelance - Worked on my own project [reDBeaver](https://www.redbeaver.ru/)
 
-### My opensource projects
-
-*   [rb-michman](https://github.com/imirjar/rb-michman) - rb-divers orchestrator. Turns all your databases into one convenient API service
-*   [rb-diver](https://github.com/imirjar/rb-diver)  - The program stores sql queries that can be called remotely using rb-michman
-
-<div align="center" style="margin: 40px 0">
-   <a href="https://github.com/imirjar/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=imirjar&color=DE002D">
-   </a>
-</div>
 
