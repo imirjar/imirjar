@@ -4,14 +4,6 @@ I'am [GOLANG](https://go.dev/) Developer with more than 5 years of commertial ex
 In general worked with microservice arthitecture. 
 
 <p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=imirjar&show_icons=true&count_private=true"><img
-           height=150
-           src="https://github-readme-stats.vercel.app/api?username=imirjar&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/imirjar/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=imirjar&layout=compact"/></a>
-</p>
-
-<p align='center'>
    <a href="https://www.linkedin.com/in/imirjar">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
