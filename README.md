@@ -1,7 +1,3 @@
-Отлично! Вот финальная версия с вашими данными и улучшенной структурой:
-
----
-
 # 👋 Hi, I'm Artem
 
 **Backend-focused Software Engineer** with over 5 years of commercial experience in **Golang**. I specialize in building scalable, maintainable backend systems with a strong foundation in **microservices architecture**. I'm passionate about creating complete solutions from infrastructure to user interface.
